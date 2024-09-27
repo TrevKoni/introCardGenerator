@@ -17,11 +17,13 @@ This project is made using React, Vite and TailwindCss.
 - [x] Add stream type inputs
 - [x] Add download button
 - [x] Change logo
-- [] Save written or filled information
-- [] Make the download require some information (optional)
-- [] Make the image component
+- [x] Save written or filled information
+- [x] Pass data to the card
+- [x] Make the image component
+- [] Stye the image component
 - [] Add html2canvas
 - [] Make the image downloadable
 - [] Add Header Section
 - [] Add Footer Section
 - [] Fix design
+- [] Make the download require some information (optional)
